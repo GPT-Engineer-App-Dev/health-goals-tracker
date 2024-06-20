@@ -26,6 +26,9 @@ const Index = () => {
         <Link to="/log-workout">
           <Button colorScheme="teal" size="lg">Log Workout</Button>
         </Link>
+        <Link to="/progress">
+          <Button colorScheme="teal" size="lg">View Progress</Button>
+        </Link>
       </VStack>
     </Container>
   );
